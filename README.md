@@ -8,10 +8,9 @@ Welcome to my GitHub profile! I'm currently pursuing a Bachelor of Computer Syst
 🌱 I’m currently learning how to make a compiler in c.
 
 # 📊 GitHub Stats:
-
-GitHub Streak:
-[![GitHub Streak](https://streak-stats.demolab.com?user=danielyonkeucheunko&theme=dark)](https://git.io/streak-stats)
-
+<p aligh="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=danielyonkeucheunko&theme=dark" alt="GitHub Streak" /></a>
+</p>
 
 
 <!--
