@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm currently pursuing a Bachelor of Computer Syst
 🌱 I’m currently learning how to make a compiler in c.
 
 # 📊 GitHub Stats:
-<p aligh="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=danielyonkeucheunko&theme=dark" alt="GitHub Streak" /></a>
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-tau-liard.vercel.app?user=danielyonkeucheunko&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 
