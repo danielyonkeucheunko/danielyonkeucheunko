@@ -1,7 +1,7 @@
 # 👋 About Me:
 Hi there, I'm Daniel Yonkeu-Cheunko! 👋
 
-Welcome to my GitHub profile! I'm currently pursuing a Bachelor of Computer Systems Engineering (Co-op Option) at Carleton University, with an expected graduation in April 2027. I'm passionate about coding, problem-solving, and exploring new technologies to create innovative solutions.
+Welcome to my GitHub profile! I'm currently pursuing a Bachelor of Computer Systems Engineering (Co-op Option) at Carleton University, with an expected graduation in September 2027. I'm passionate about coding, problem-solving, and exploring new technologies to create innovative solutions.
 
 🔭 I’m currently working on expanding my knowledge on industry standard practices and software.
 
