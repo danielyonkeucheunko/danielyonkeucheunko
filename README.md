@@ -7,12 +7,6 @@ Welcome to my GitHub profile! I'm currently pursuing a Bachelor of Computer Syst
 
 🌱 I’m currently learning how to make a compiler in c.
 
-# 📊 GitHub Stats:
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-tau-liard.vercel.app?user=danielyonkeucheunko&theme=dark" alt="GitHub Streak" /></a>
-</p>
-
-
 <!--
 **danielyonkeucheunko/danielyonkeucheunko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
