@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm currently pursuing a Bachelor of Computer Syst
 
 🔭 I’m currently working on expanding my knowledge on industry standard practices and software.
 
-🌱 I’m currently learning how to make a compiler in c.
+🌱 I’m currently learning how to make a compiler in C.
 
 <!--
 **danielyonkeucheunko/danielyonkeucheunko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
