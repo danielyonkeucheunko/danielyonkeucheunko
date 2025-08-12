@@ -60,8 +60,6 @@ Here are a few things I've worked on in the past:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danielyonkeucheunko&show_icons=true&theme=github_dark&count_private=true&hide_border=true" alt="Daniel's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielyonkeucheunko&theme=dark&hide_border=true" alt="Daniel's GitHub streak" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielyonkeucheunko&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </div>
 
